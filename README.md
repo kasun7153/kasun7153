@@ -18,7 +18,7 @@
 
 <p align="center">
   <em>
-    This is ME, Kasun Chandika, a <b>third year</b> undergraduate from <a href="http://uom.lk/"> <b>University of Moratuwa</b>, amritsar</a>. <br>
+    This is me, Kasun Chandika, a <b>third year</b> undergraduate from <a href="http://uom.lk/"> <b>University of Moratuwa</b>, amritsar</a>. <br>
     A budding <b>Full-Stack Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
@@ -72,9 +72,9 @@
   <hr>
   <p align="center">
  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akash-chowrasia&show_icons=true&locale=en&layout=compact" alt="akash-chowrasia" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kasun7153&show_icons=true&locale=en&layout=compact" alt="akash-chowrasia" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akash-chowrasia&show_icons=true&locale=en" alt="akash-chowrasia" width="410" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kasun7153&show_icons=true&locale=en" alt="akash-chowrasia" width="410" /></p>
 
 <hr>
 
