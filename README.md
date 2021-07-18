@@ -58,14 +58,7 @@
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"> </code>
   <code> <img height="50" src="  https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg"> </code>
-  <hr>
-  <p align="center">
- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>GitHub Stats</b></i></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kasun7153&show_icons=true&locale=en&layout=compact" alt="akash-chowrasia" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kasun7153&show_icons=true&locale=en" alt="akash-chowrasia" width="410" /></p>
-
-### 🧰 Frameworks and libraries
+  ### 🧰 Frameworks and libraries
 
 <p>
     <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
@@ -102,6 +95,14 @@
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
+  <hr>
+  <p align="center">
+ <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>GitHub Stats</b></i></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kasun7153&show_icons=true&locale=en&layout=compact" alt="akash-chowrasia" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kasun7153&show_icons=true&locale=en" alt="akash-chowrasia" width="410" /></p>
+
+
 
 <hr>
 
