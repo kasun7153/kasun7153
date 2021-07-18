@@ -39,7 +39,7 @@
 ✔ I’m currently working on **ReactJS** & **NodeJS**<br>
 ✔ Fun fact : *Still waiting for my letter from Hogwarts*<br><br><br><br>
  
-<p align="left">
+
 ### 🧰 Frameworks and libraries
 
 <p>
@@ -77,7 +77,7 @@
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
-</p>
+
   <hr>
   <p align="center">
  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>GitHub Stats</b></i></p>
