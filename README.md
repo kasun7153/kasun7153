@@ -22,7 +22,7 @@
 
 <p align="center">
   <em>
-    This is me, Kasun Chandika, a <b>third year</b> undergraduate from <a href="http://uom.lk/"> <b>University of Moratuwa</b>, Sri Lanka</a>. <br>
+    This is me, Kasun Chandika, a <b>passionate</b> individual from <a href="http://uom.lk/"> <b>University of Moratuwa</b>, Sri Lanka</a>. <br>
     A <b>highly motivated</b> and a hard working individual <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px"> who has a passion for Computer Science <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and who loves to try out different technologies. Seeking an opportunity to gain more experience <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> to become a qualified professional in the IT industry one day.
     <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
     
